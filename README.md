@@ -11,7 +11,7 @@ This project is an implementation of a pipeline for detecting TCR Variable reads
 The pipeline needs for the following programs to be installed and the paths :
 
 
-##Blastall:
+# Blastall:
 http://mirrors.vbi.vt.edu/mirrors/ftp.ncbi.nih.gov/blast/executables/release/2.2.15/
 
 The accompanying paths need to be changed in the script cmd_line_tcrvseq.py:
@@ -20,7 +20,7 @@ blastallDir="/path/to/blastall/"
 
 lengthScript="/path/to/calc.median.read.length.pl"
 
-##Reference TCR sequences:
+# Reference TCR sequences:
 
 Also the user can select their chosen TCR alpha and beta V and C reference databases (we recommend downloading from imgt.org) and enter their locations:
 
