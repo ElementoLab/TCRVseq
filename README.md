@@ -1,7 +1,7 @@
 # TCRVseq
 ## Introduction
 
-For specific questions/problems please email David Redmond at: dar2042@med.cornell.edu
+For specific questions/problems please email David Redmond at: david.redmond@outlook.com
 
 This project is an implementation of a pipeline for detecting TCR Variable reads from RNAseq data in python
 
