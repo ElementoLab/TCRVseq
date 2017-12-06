@@ -46,7 +46,7 @@ mouseTRBCblast="/path/to/TRBC.mouse.fa"
 
 ## Example Command Line
 
-We recommend running the pipeline on paired end fluidigm single cell RNA seq data.
+We recommend running the pipeline on paired end RNA seq data.
 
 The usage is as follows:
 
